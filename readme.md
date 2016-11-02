@@ -1,5 +1,6 @@
 # This is example is according the tutorial of below link
 http://itsolutionstuff.com/post/laravel-5-and-vue-js-crud-with-pagination-example-and-demo-from-scratchexample.html
+=================================================================
 But i recode it with vue2.0 and use component. Thanks the author.
 Just for referrences.
 
